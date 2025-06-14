@@ -1,0 +1,16 @@
+CENTROS DE RECICLAJE
+
+Centro Norte:
+Dirección: Av. Principal 123
+Horario: Lunes a Viernes 8:00-17:00
+Teléfono: (555) 123-4567
+
+Centro Sur:
+Dirección: Calle Industrial 456
+Horario: Lunes a Sábado 7:00-18:00
+Teléfono: (555) 987-6543
+
+Centro Este:
+Dirección: Blvd. Ecológico 789
+Horario: Todos los días 6:00-20:00
+Teléfono: (555) 456-7890
