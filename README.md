@@ -1,10 +1,10 @@
 > Pryecto final de parcial
 
 ## Compilacion
-> el programa esta diseñado especificamente para linux con ncurses, sin embargo es posible compliarlo para windows can algunas modificaciones.
+> el programa esta diseñado especificamente para linux con ncurses, sin embargo es posible compliarlo para windows con algunas modificaciones.
 
 ### Linux
-el proseso aqui es mas facil ya que el programa incluye un `Makefile`
+el proceso aqui es mas facil ya que el programa incluye un `Makefile`
 ```bash
 	make
 	make run
